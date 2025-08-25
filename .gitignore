@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[codZ]   # adjusted fuzz: matches .pyc .pyo .pyd etc
+*.py[cod]   # adjusted fuzz: matches .pyc .pyo .pyd etc
 *$py.class
 
 # C extensions
